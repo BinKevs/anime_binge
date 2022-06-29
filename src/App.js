@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import "./index.css";
+import Nav from "./Components/Nav";
+import LandingBody from "./Components/LandingBody";
+import LowerBody from "./Components/LowerBody";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div className="bg-black">
+			<div className="bg-[url('/src/Static/LandingBG.png')] h-screen bg-center bg-no-repeat">
+				<Nav />
+				<LandingBody />
+				<LowerBody />
+			</div>
+		</div>
+	);
 }
 
 export default App;
