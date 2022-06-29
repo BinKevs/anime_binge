@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anime_binge/static/css/main.e66c0f6f.css",
+    "main.js": "/anime_binge/static/js/main.50a394ad.js",
+    "static/js/787.9ccc9046.chunk.js": "/anime_binge/static/js/787.9ccc9046.chunk.js",
+    "static/media/ghost.png": "/anime_binge/static/media/ghost.2419130f643020dbff64.png",
+    "static/media/AOT-2.png": "/anime_binge/static/media/AOT-2.738ef3fc3618f0e401d4.png",
+    "static/media/slamdunk.png": "/anime_binge/static/media/slamdunk.cebf1ea3aeb1e5cd832e.png",
+    "static/media/flameofreka.png": "/anime_binge/static/media/flameofreka.6b74323ba695ee0cf9f0.png",
+    "static/media/LandingBG.png": "/anime_binge/static/media/LandingBG.2e3fec27de3a247793f7.png",
+    "static/media/ONEPIECE.png": "/anime_binge/static/media/ONEPIECE.041d16fee43fd99ad3e1.png",
+    "static/media/AOT.png": "/anime_binge/static/media/AOT.27900249f0e3dd45f669.png",
+    "static/media/JUJUTSU.png": "/anime_binge/static/media/JUJUTSU.f841e2b60e718e220493.png",
+    "static/media/AOT-EP2.png": "/anime_binge/static/media/AOT-EP2.0c50d399ba7f4714e53c.png",
+    "static/media/AOT-EP1.png": "/anime_binge/static/media/AOT-EP1.53b20e7b9510874f12ac.png",
+    "static/media/AOT-EP3.png": "/anime_binge/static/media/AOT-EP3.f1ac8cc73efe3b3596f5.png",
+    "index.html": "/anime_binge/index.html",
+    "main.e66c0f6f.css.map": "/anime_binge/static/css/main.e66c0f6f.css.map",
+    "main.50a394ad.js.map": "/anime_binge/static/js/main.50a394ad.js.map",
+    "787.9ccc9046.chunk.js.map": "/anime_binge/static/js/787.9ccc9046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66c0f6f.css",
+    "static/js/main.50a394ad.js"
+  ]
+}
